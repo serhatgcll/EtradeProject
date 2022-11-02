@@ -29,7 +29,7 @@ namespace EtradeBackend.WebAPI.Controllers
         [HttpGet("{id}")]
         public async Task<IActionResult> Get(string id)
         {
-            Product product = await _productReadRepository.GetByIdAsync(id);
+            Product product = await _productReadRepository.GetByIdAsync(id);          
             return Ok(product);
         }
         
