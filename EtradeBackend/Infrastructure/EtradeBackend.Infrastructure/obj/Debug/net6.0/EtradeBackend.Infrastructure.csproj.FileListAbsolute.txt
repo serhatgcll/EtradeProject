@@ -1,0 +1,17 @@
+C:\Users\guclu\OneDrive\Masaüstü\EtradeProject\EtradeBackend\Infrastructure\EtradeBackend.Infrastructure\bin\Debug\net6.0\EtradeBackend.Infrastructure.deps.json
+C:\Users\guclu\OneDrive\Masaüstü\EtradeProject\EtradeBackend\Infrastructure\EtradeBackend.Infrastructure\bin\Debug\net6.0\EtradeBackend.Infrastructure.dll
+C:\Users\guclu\OneDrive\Masaüstü\EtradeProject\EtradeBackend\Infrastructure\EtradeBackend.Infrastructure\bin\Debug\net6.0\EtradeBackend.Infrastructure.pdb
+C:\Users\guclu\OneDrive\Masaüstü\EtradeProject\EtradeBackend\Infrastructure\EtradeBackend.Infrastructure\obj\Debug\net6.0\EtradeBackend.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\guclu\OneDrive\Masaüstü\EtradeProject\EtradeBackend\Infrastructure\EtradeBackend.Infrastructure\obj\Debug\net6.0\EtradeBackend.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guclu\OneDrive\Masaüstü\EtradeProject\EtradeBackend\Infrastructure\EtradeBackend.Infrastructure\obj\Debug\net6.0\EtradeBackend.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\guclu\OneDrive\Masaüstü\EtradeProject\EtradeBackend\Infrastructure\EtradeBackend.Infrastructure\obj\Debug\net6.0\EtradeBackend.Infrastructure.AssemblyInfo.cs
+C:\Users\guclu\OneDrive\Masaüstü\EtradeProject\EtradeBackend\Infrastructure\EtradeBackend.Infrastructure\obj\Debug\net6.0\EtradeBackend.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\guclu\OneDrive\Masaüstü\EtradeProject\EtradeBackend\Infrastructure\EtradeBackend.Infrastructure\obj\Debug\net6.0\EtradeBackend.Infrastructure.dll
+C:\Users\guclu\OneDrive\Masaüstü\EtradeProject\EtradeBackend\Infrastructure\EtradeBackend.Infrastructure\obj\Debug\net6.0\refint\EtradeBackend.Infrastructure.dll
+C:\Users\guclu\OneDrive\Masaüstü\EtradeProject\EtradeBackend\Infrastructure\EtradeBackend.Infrastructure\obj\Debug\net6.0\EtradeBackend.Infrastructure.pdb
+C:\Users\guclu\OneDrive\Masaüstü\EtradeProject\EtradeBackend\Infrastructure\EtradeBackend.Infrastructure\obj\Debug\net6.0\ref\EtradeBackend.Infrastructure.dll
+C:\Users\guclu\OneDrive\Masaüstü\EtradeProject\EtradeBackend\Infrastructure\EtradeBackend.Infrastructure\bin\Debug\net6.0\EtradeBackend.Application.dll
+C:\Users\guclu\OneDrive\Masaüstü\EtradeProject\EtradeBackend\Infrastructure\EtradeBackend.Infrastructure\bin\Debug\net6.0\EtradeBackend.Domain.dll
+C:\Users\guclu\OneDrive\Masaüstü\EtradeProject\EtradeBackend\Infrastructure\EtradeBackend.Infrastructure\bin\Debug\net6.0\EtradeBackend.Application.pdb
+C:\Users\guclu\OneDrive\Masaüstü\EtradeProject\EtradeBackend\Infrastructure\EtradeBackend.Infrastructure\bin\Debug\net6.0\EtradeBackend.Domain.pdb
+C:\Users\guclu\OneDrive\Masaüstü\EtradeProject\EtradeBackend\Infrastructure\EtradeBackend.Infrastructure\obj\Debug\net6.0\EtradeBackend.Infrastructure.csproj.CopyComplete

@@ -1,0 +1,12 @@
+C:\Users\guclu\OneDrive\Masaüstü\EtradeProject\EtradeBackend\Core\EtradeBackend.Domain\bin\Debug\net6.0\EtradeBackend.Domain.deps.json
+C:\Users\guclu\OneDrive\Masaüstü\EtradeProject\EtradeBackend\Core\EtradeBackend.Domain\bin\Debug\net6.0\EtradeBackend.Domain.dll
+C:\Users\guclu\OneDrive\Masaüstü\EtradeProject\EtradeBackend\Core\EtradeBackend.Domain\bin\Debug\net6.0\EtradeBackend.Domain.pdb
+C:\Users\guclu\OneDrive\Masaüstü\EtradeProject\EtradeBackend\Core\EtradeBackend.Domain\obj\Debug\net6.0\EtradeBackend.Domain.csproj.AssemblyReference.cache
+C:\Users\guclu\OneDrive\Masaüstü\EtradeProject\EtradeBackend\Core\EtradeBackend.Domain\obj\Debug\net6.0\EtradeBackend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guclu\OneDrive\Masaüstü\EtradeProject\EtradeBackend\Core\EtradeBackend.Domain\obj\Debug\net6.0\EtradeBackend.Domain.AssemblyInfoInputs.cache
+C:\Users\guclu\OneDrive\Masaüstü\EtradeProject\EtradeBackend\Core\EtradeBackend.Domain\obj\Debug\net6.0\EtradeBackend.Domain.AssemblyInfo.cs
+C:\Users\guclu\OneDrive\Masaüstü\EtradeProject\EtradeBackend\Core\EtradeBackend.Domain\obj\Debug\net6.0\EtradeBackend.Domain.csproj.CoreCompileInputs.cache
+C:\Users\guclu\OneDrive\Masaüstü\EtradeProject\EtradeBackend\Core\EtradeBackend.Domain\obj\Debug\net6.0\EtradeBackend.Domain.dll
+C:\Users\guclu\OneDrive\Masaüstü\EtradeProject\EtradeBackend\Core\EtradeBackend.Domain\obj\Debug\net6.0\refint\EtradeBackend.Domain.dll
+C:\Users\guclu\OneDrive\Masaüstü\EtradeProject\EtradeBackend\Core\EtradeBackend.Domain\obj\Debug\net6.0\EtradeBackend.Domain.pdb
+C:\Users\guclu\OneDrive\Masaüstü\EtradeProject\EtradeBackend\Core\EtradeBackend.Domain\obj\Debug\net6.0\ref\EtradeBackend.Domain.dll
