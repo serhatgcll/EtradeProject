@@ -23,7 +23,8 @@ namespace EtradeBackend.WebAPI.Controllers
         public async Task Get()
         {
 
-            _productWriteRepository.AddAsync(new Product() {Name="C product",Price=1.500F,Stock=25,Description="Deneme eklemesidir.",CreatedDate=DateTime.UtcNow });
+           await _productWriteRepository.AddAsync(new Product() {Name="C product",Price=1.500F,Stock=25,Description="Deneme eklemesidir.",CreatedDate=DateTime.UtcNow });
+            await _productWriteRepository.SaveAsync();
         }
         [HttpGet("{id}")]
         public async Task<IActionResult> Get(string id)
