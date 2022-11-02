@@ -12,26 +12,28 @@ namespace EtradeBackend.WebAPI.Controllers
     {
         readonly private IProductReadRepository _productReadRepository;
         readonly private IProductWriteRepository _productWriteRepository;
+        readonly private IOrderWriteRepository _orderWriteRepository;
+        readonly private ICustomerWriteRepository _customerWriteRepository;
+        readonly private IOrderReadRepository _orderReadRepository;
 
-        public ProductsController(IProductReadRepository productReadRepository, IProductWriteRepository productWriteRepository)
+        public ProductsController(IProductReadRepository productReadRepository, IProductWriteRepository productWriteRepository, IOrderWriteRepository orderWriteRepository, ICustomerWriteRepository customerWriteRepository, IOrderReadRepository orderReadRepository)
         {
             _productReadRepository = productReadRepository;
             _productWriteRepository = productWriteRepository;
+            _orderWriteRepository = orderWriteRepository;
+            _customerWriteRepository = customerWriteRepository;
+            _orderReadRepository = orderReadRepository;
         }
 
         [HttpGet]                                                                                         
         public async Task Get()
         {
 
-           await _productWriteRepository.AddAsync(new Product() {Name="C product",Price=1.500F,Stock=25,Description="Deneme eklemesidir.",CreatedDate=DateTime.UtcNow });
-            await _productWriteRepository.SaveAsync();
+            Order order = await _orderReadRepository.GetByIdAsync("2ff89392-d2ca-4a66-ab4a-33d9e7bc42a4");
+            order.Address = "ergani";
+            await _orderWriteRepository.SaveAsync();
         }
-        [HttpGet("{id}")]
-        public async Task<IActionResult> Get(string id)
-        {
-            Product product = await _productReadRepository.GetByIdAsync(id);          
-            return Ok(product);
-        }
+       
         
     }
 }
