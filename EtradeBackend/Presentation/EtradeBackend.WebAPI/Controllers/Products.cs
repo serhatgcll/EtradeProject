@@ -33,7 +33,7 @@ namespace EtradeBackend.WebAPI.Controllers
             order.Address = "ergani";
             await _orderWriteRepository.SaveAsync();
         }
-       
-        
+
+
     }
 }
